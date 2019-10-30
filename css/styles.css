@@ -33,6 +33,7 @@ body {
 .navbar li {
   float: left;
   width: 102px;
+  height: 100%;
   border-right: 1px solid #606060;
 }
 
