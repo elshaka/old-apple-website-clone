@@ -12,7 +12,7 @@ Basic HTML5 and CSS.
 
 ## Live view
 
-A live view can be found [here](https://raw.githack.com/elshaka/old-apple-website-clone/features-website/index.html).
+A live view can be found [here](https://raw.githack.com/elshaka/old-apple-website-clone/master/index.html).
 
 ## Contributors
 
